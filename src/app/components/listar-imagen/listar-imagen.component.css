@@ -1,0 +1,11 @@
+.badge-light {
+    color: #212529;
+    background-color: #f8f9fa;
+}
+.likesViews{
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+a{
+    cursor: pointer;
+}
