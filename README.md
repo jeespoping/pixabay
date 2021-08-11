@@ -1,6 +1,6 @@
 # Pixabay
 
-una aplicacion hecho en Angular para buscar imagenes de cualquier tipo
+una aplicación hecho en Angular para buscar imagenes de cualquier tipo
 
 # Demo
 
